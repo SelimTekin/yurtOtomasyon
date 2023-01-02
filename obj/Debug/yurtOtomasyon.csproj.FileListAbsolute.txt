@@ -1,0 +1,17 @@
+C:\Users\selim\source\repos\yurtOtomasyon\bin\Debug\yurtOtomasyon.exe.config
+C:\Users\selim\source\repos\yurtOtomasyon\bin\Debug\yurtOtomasyon.exe
+C:\Users\selim\source\repos\yurtOtomasyon\bin\Debug\yurtOtomasyon.pdb
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.csproj.AssemblyReference.cache
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.Properties.Resources.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.csproj.GenerateResource.cache
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.csproj.CoreCompileInputs.cache
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.exe
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.pdb
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmOgrKayit.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmBolumler.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmAnaForm.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmOdemeler.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmOgrListe.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmOgrDuzenle.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmAdminGiris.resources
+C:\Users\selim\source\repos\yurtOtomasyon\obj\Debug\yurtOtomasyon.FrmYoneticiDuzenle.resources
